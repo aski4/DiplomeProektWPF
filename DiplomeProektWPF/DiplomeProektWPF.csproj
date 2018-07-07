@@ -101,7 +101,6 @@
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="MyTwitterBdClass.cs" />
     <Compile Include="NavigationService.cs" />
-    <Compile Include="oneMoreClass.cs" />
     <Compile Include="StringHelper.cs" />
     <Compile Include="TrendsForBd.cs" />
     <Compile Include="TrendsModel.cs" />
